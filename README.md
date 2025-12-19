@@ -1,7 +1,10 @@
 # 💫 About Me:
- Hi, I'm an aspiring **Cloud & DevOps Engineer** with a strong interest in building<br>scalable, secure, and reliable cloud infrastructure.<br><br> I’m currently focused on learning and practicing:<br> Cloud Computing with Amazon Web Services (AWS)<br>Containerization using Docker<br>Container Orchestration with Kubernetes<br>Linux system administration<br> DevOps practices for automation and CI/CD<br>Python for scripting and automation<br>C++ for core programming fundamentals<br><br> I’m open to collaborating on:<br> Cloud infrastructure projects<br> DevOps automation pipelines<br> Docker & Kubernetes based deployments<br><br> Currently learning:<br> Advanced AWS services<br> Kubernetes internals<br> Infrastructure as Code (IaC) concepts<br><br> Ask me about:<br> Linux basics<br> AWS fundamentals<br> DevOps & cloud learning roadmap<br><br> Fun fact:<br>I enjoy understanding how systems work behind the scenes and automating repetitive tasks.
+Hi, I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, secure, and reliable cloud infrastructure.
+Working with AWS, Docker, Kubernetes, and Linux  
+Exploring DevOps automation, CI/CD pipelines, and Infrastructure as Code (IaC)  
+Using Python for scripting and automation  Strong foundation in C++
 
-
+Open to collaborating on cloud and DevOps-focused projects.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vshal.el) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishal-dhakad-374696368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishaldhakad.tech@gmail.com) 
 
