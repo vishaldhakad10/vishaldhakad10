@@ -1,8 +1,12 @@
 # 💫 About Me:
-Hi, I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, secure, and reliable cloud infrastructure.
-Working with AWS, Docker, Kubernetes, and Linux  
-Exploring DevOps automation, CI/CD pipelines, and Infrastructure as Code (IaC)  
-Using Python for scripting and automation  Strong foundation in C++
+Aspiring SOC Analyst focused on cybersecurity, threat detection, and incident response.
+
+🔹 Learning SIEM, EDR, and Security Monitoring
+🔹 Exploring Threat Hunting and Log Analysis
+🔹 Working with Linux and Network Security
+🔹 Using Python for automation and security tasks
+
+
 
 Open to collaborating on cloud and DevOps-focused projects.
 ## 🌐 Socials:
